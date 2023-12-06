@@ -1,5 +1,5 @@
 FROM node:18.17.1-alpine
-WORKDIR /app/backend
+WORKDIR /app/api
 
 RUN rm -rf node_modules
 
